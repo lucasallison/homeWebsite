@@ -1,0 +1,24 @@
+body {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 16px;
+	background-color:#d0cfd6;
+
+}
+
+h2 {
+	color:#111114;
+}
+
+.container {
+	width:50%;
+	margin: auto;
+}
+
+.kader {
+
+	color: white;
+	padding: 5px 20px;
+	background-color: #22252b;
+	border: 2px red solid;
+	margin-bottom: 5px; 
+}
